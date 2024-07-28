@@ -7,6 +7,7 @@ Exercício desenvolvido em portugol nas aulas de programação,
 >VARIAVEIS \
 > &nbsp;&nbsp;&nbsp;&nbsp;hr: REAL \
 > &nbsp;&nbsp;&nbsp;&nbsp;min: REAL \
+>> &nbsp;&nbsp;&nbsp;&nbsp;seg: REAL \
 > INICIO \
 > &nbsp;&nbsp;&nbsp;&nbsp;LEIA seg\
 > &nbsp;&nbsp;&nbsp;&nbsp;hr ← seg / 3600  \
